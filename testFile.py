@@ -16,3 +16,13 @@ print(area,radius)
 f = max
 print(f(1,3,2))
 
+def square(x):
+    return mul(x,x)
+
+def cube(x):
+    return x*x*x
+
+print('square: ',square(3))
+print('cube: ', cube(3))
+
+## premitive expression
